@@ -25,7 +25,7 @@ Through the individuality and flexibility, you can choose which payment methods 
 
 ## More information
 Find more about WooCommerce plugin on: https://www.novalnet.de/site_pdf/IG-wordpress_4.x_woocommerce_2.2.x-3.2.6_woo-subscription_1.5.x-2.2.15_novalnet_11.2.4.pdf<br>
-To test our demo shop, please visit: https://woocommerce-demo.novalnet.de/ 
+To test our demo shop, please visit: https://woocommerce-demo.novalnet.de 
 
 ## Contact
 Novalnet AG<br>
