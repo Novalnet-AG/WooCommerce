@@ -18,7 +18,8 @@ Through the individuality and flexibility, you can choose which payment methods 
 * Automated e-mail notification function concerning payment status reports
 * Automated bookkeeping report in XML, SOAP, CSV, MT940
 * All SUPEE secure patches are supported
-* PCI compliant hosted page so No PCI DSS certification required
+* PCI compliant hosted page
+* No PCI DSS certification required
 * Secure SSL- encoded gateways
 * Easy way of managing ‘on-hold’ transactions (authorize, cancel or capture) and refunds (partial, full)
 * Find currently supported payment methods on https://www.novalnet.de/zahlungsabwicklung-und-online-zahlungsabwicklung-mit-der-novalnet-realisieren
