@@ -8,7 +8,7 @@ Support is available in: <b> EN, DE, FR, ES, IT, BS, CR, RU, HI, TA</b>
 Through the individuality and flexibility, you can choose which payment methods and services you need. Get now a seamless integration with the various types of payments and payment-related services integrated in the one unique platform.
 
 ## Important functions for WooCommerce
-* Seamless and fast integration of the payment extension
+* Seamless and fast integration of the payment plugin
 * Easy configuration for all payment methods
 * One platform for all relevant payment types and related services
 * More than 50 fraud prevention modules integrated to prevent risk in real-time
@@ -17,11 +17,10 @@ Through the individuality and flexibility, you can choose which payment methods 
 * Multilevel claims management with integrated handover to collection and various export functions for the Accounting
 * Automated e-mail notification function concerning payment status reports
 * Automated bookkeeping report in XML, SOAP, CSV, MT940
-* All SUPEE secure patches are supported
 * PCI compliant hosted page
 * No PCI DSS certification required
 * Secure SSL- encoded gateways
-* Easy way of managing ‘on-hold’ transactions (authorize, cancel or capture) and refunds (partial, full)
+* Easy way of managing ‘on-hold’ transactions (cancel or capture) and refunds (partial, full)
 * Find currently supported payment methods on https://www.novalnet.de/zahlungsabwicklung-und-online-zahlungsabwicklung-mit-der-novalnet-realisieren
 
 ## More information
