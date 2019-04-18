@@ -24,7 +24,7 @@ Through the individuality and flexibility, you can choose which payment methods 
 * Find currently supported payment methods on https://www.novalnet.de/zahlungsabwicklung-und-online-zahlungsabwicklung-mit-der-novalnet-realisieren
 
 ## More information
-Find more about WooCommerce plugin on: https://www.novalnet.de/site_pdf/IG-wordpress_4.x_woocommerce_2.2.x-3.2.6_woo-subscription_1.5.x-2.2.15_novalnet_11.2.4.pdf<br>
+Find more about WooCommerce plugin on: https://www.novalnet.de/site_pdf/Installation_Guide-wordpress_4.x-5.1.1_woocommerce_2.2.x-3.5.8_woo-subscription_1.5.x-2.5.3_novalnet_11.2.12.pdf<br>
 To test our demo shop, please visit: https://woocommerce-demo.novalnet.de 
 
 ## Contact
