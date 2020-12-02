@@ -1,11 +1,19 @@
 *** Changelog ***
 
+= 12.0.1 - 2020.12.02 =
+* Fix 	    - Installment renewal summary update
+* Fix 	    - Extended the support for the customized order number
+* Enhanced  - Added new parameter: customer.tel
+
+= 12.0.0 - 2020.11.27 =
+* Major version release: Entire restructure & optimization of the older version with usability, additional features, and customizations.
+
 = 11.3.5 - 2020.10.30 =
-* Fix    - Chrome Samesite Cookies
+* Fix     - Chrome Samesite Cookies
 
 = 11.3.4 - 25.02.2020 =
-* New    - Customized date of birth field in checkout page
-* Fix    - Compatibility for WooCommerce 3.9.1
+* New     - Customized date of birth field in checkout page
+* Fix     - Compatibility for WooCommerce 3.9.1
 
 = 11.3.3 - 17.01.2020 =
 * New 	   - German text has been added for date of birth text field
@@ -33,9 +41,9 @@
 * Removed  - Transaction reference in payments
 
 = 11.2.16 - 22.07.2019 =
-* Fix	- Adjusted validation in the checkout page for company field
-* Fix 	- Issue in displaying the Guaranteed Direct Debit SEPA payment in checkout page
-* Fix	- Issue in subscription change payment method for Direct Debit SEPA
+* Fix	  - Adjusted validation in the checkout page for company field
+* Fix     - Issue in displaying the Guaranteed Direct Debit SEPA payment in checkout page
+* Fix	  - Issue in subscription change payment method for Direct Debit SEPA
 
 = 11.2.15 - 19.06.2019 =
 * Fix 	   - Issue with checkout process on account creation
@@ -77,8 +85,8 @@
 * Fix - Adjusted payment module to restrict the double transaction in custom theme
 
 = 11.2.6 - 24.01.2018 =
-* New - Custom checkout overlay for Barzahlen
-* New - Force 3D secure process has been implemented as per predefined filters and settings in the Novalnet admin portal
+* New      - Custom checkout overlay for Barzahlen
+* New      - Force 3D secure process has been implemented as per predefined filters and settings in the Novalnet admin portal
 * Enhanced - Due date update notification in the shop, on activation of transaction for Invoice, Invoice with payment guarantee and Prepayment
 * Enhanced - On-hold transaction configuration has been implemented for Credit Card, Direct Debit SEPA, Direct Debit SEPA with payment guarantee, Invoice, Invoice with payment guarantee and PayPal
 * Enhanced - Optimized IP condition check for remote address
@@ -87,7 +95,7 @@
 * Enhanced - Optimized vendor script validation for handling communication failure transaction
 
 = 11.2.4 - 21.11.2017 =
-* Fixed - Fetching the order amount from the cart instead of session, to make it compatible for the WooCommerce version (above 3.2.0)	 
+* Fixed    - Fetching the order amount from the cart instead of session, to make it compatible for the WooCommerce version (above 3.2.0)	 
 * Enhanced - Dynamic IP control applied through domain instead of static IP in vendor script. Actual IP of Novalnet will be extracted in real time from the domain
 
 = 11.2.3 - 03.11.2017 =
