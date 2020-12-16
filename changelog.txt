@@ -2,7 +2,7 @@
 
 = 12.0.2 - 2020.12.16 =
 * Fix   - Optimized IP condition check for the parameter transaction.system_ip
-* Fix	- Customer card/account details will not stored if Save card details checkbox is unchecked
+* Fix	- Customer card/account details will not stored if Save future purchase checkbox is unchecked
 * Fix   - Payment plugin has been adjusted for the guest users during signup process in the checkout page
 * Fix   - Payment plugin has been adjusted for 32 bit operating system
 * Fix   - Subscription reactive and cancelled handled for the expired subscriptions
