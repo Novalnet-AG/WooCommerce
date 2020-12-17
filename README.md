@@ -2,7 +2,7 @@
 Novalnet payment plugin for WooCommerce simplifies your daily work by automating the entire payment process, from checkout till collection. This plugin is designed to help you increase your sales by offering various payment methods on a one-page checkout. The payment plugin is perfectly adjusted to the WooCommerce shop with top-quality range of services of the payment provider.
 
 ## Integration Requirements
-Novalnet <a href="https://www.novalnet.de/"> merchant account </a> is required for processing all international and local payments through this WooCommerce payment plugin. The plugin is available for Wordpress versions 4.0 to 5.5.3, WooCommerce versions 3.0.0 to 4.7.1, and WooCommerce subscription versions 2.0.0 to 3.0.10 in the following languages: EN & DE
+Novalnet <a href="https://www.novalnet.de/"> merchant account </a> is required for processing all international and local payments through this WooCommerce payment plugin. The plugin is available for Wordpress versions 4.0 to 5.6, WooCommerce versions 3.0.0 to 4.8.0, and WooCommerce subscription versions 2.0.0 to 3.0.11 in the following languages: EN & DE
 
 ## Key Features
 * Easy configuration of all international & local payment methods
