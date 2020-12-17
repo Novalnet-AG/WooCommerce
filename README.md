@@ -27,6 +27,8 @@ Novalnet <a href="https://www.novalnet.de/"> merchant account </a> is required f
 * Refund option available for all payments (except Mulitbanco)
 * Transaction amount update option for Direct Debit SEPA, Invoice, Prepayment & Barzahlen
 * Responsive templates
+* Automatic order creation upon subscription renewal
+* Subscription management
 
 ## Demo Shop
 Find more about WooCommerce plugin on: https://www.novalnet.de/site_pdf/Installation_Guide-wordpress_4.0-5.5.3_woocommerce_3.0.0-4.7.1_woo-subscription_2.0.0-3.0.10_novalnet_12.0.0.pdf <br>
