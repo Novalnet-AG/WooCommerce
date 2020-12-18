@@ -31,7 +31,7 @@ Novalnet <a href="https://www.novalnet.de/"> merchant account </a> is required f
 * Subscription management
 
 ## Demo Shop
-Find more about WooCommerce plugin on: https://www.novalnet.de/site_pdf/Installation_Guide-wordpress_4.0-5.5.3_woocommerce_3.0.0-4.7.1_woo-subscription_2.0.0-3.0.10_novalnet_12.0.0.pdf <br>
+Find more about WooCommerce plugin on: hhttps://www.novalnet.de/site_pdf/Installation_Guide-wordpress_4.0-5.6_woocommerce_3.0.0-4.8.0_woo-subscription_2.0.0-3.0.11_novalnet_12.0.2.pdf <br>
 To test our demo shop, please visit: https://woocommerce.novalnet.de/ 
 
 ## Integrated Payment Methods
@@ -46,7 +46,7 @@ To test our demo shop, please visit: https://woocommerce.novalnet.de/
    - iDEAL
    - Sofort
    - giropay
-   - Barzahlen
+   - Barzahlen/viacash
    - Przelewy24
    - eps
    - PayPal
