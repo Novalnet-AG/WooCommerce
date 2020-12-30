@@ -1,5 +1,8 @@
 *** Changelog ***
 
+= 12.0.3 - 2020.12.30 =
+* Fix 	- Amount mismatched during Credit Card authentication process
+
 = 12.0.2 - 2020.12.16 =
 * Fix   - Optimized IP condition check for the parameter transaction.system_ip
 * Fix	- Customer card/account details will not stored if Save future purchase checkbox is unchecked
