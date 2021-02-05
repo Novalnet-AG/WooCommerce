@@ -1,5 +1,15 @@
 *** Changelog ***
 
+= 12.0.4 - 2021.02.05 =
+* Fix 	- Notice error during wp-cron execution
+* Fix 	- Webhook: Transaction update status reflected as a transaction refund for instalment payments
+* Fix 	- Invoice & Direct Debit SEPA payment methods are disabled during the subscription change payment method when payment guaranteed conditions are met
+* Fix 	- Change payment option hidden in shop front-end when the minimum order amount is configured for subscription payments
+* Enhanced - Added NovalnetUtility.js in the checkout page
+* Enhanced - Webhook: Transaction refund updated for the corresponding instalment cycles
+* Enhanced - Subscription change payment method in back-end has been optimized for the Credit/Debit payment
+* Enhanced - Updated new transaction details in the subscription notes section for subscription change payment method
+
 = 12.0.3 - 2020.12.30 =
 * Fix 	- Amount mismatched during Credit Card authentication process
 
