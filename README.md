@@ -57,7 +57,7 @@ To test our demo shop, please visit: https://woocommerce.novalnet.de/
 
 ## WooCommerce Plugin Installation
 Follow these steps to install the WooCommerce payment plugin by Novalnet:
-1. Get the WooCommerce payment plugin & detailed documentation by <a href="https://www.novalnet.de/kontakt/sales"> contacting us </a>
+1. Get the WooCommerce payment plugin from <a href="https://wordpress.org/plugins/woocommerce-novalnet-gateway/"> marketplace </a> or by <a href="https://www.novalnet.de/kontakt/sales"> contacting us </a>
 2. Install the plugin to your WooCommerce shop
 3. Configure Product Activation Key and Payment access key in the shop admin panel
 4. Enable & activate the preferred payment types in your shop admin panel
